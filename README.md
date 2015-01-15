@@ -1,4 +1,4 @@
 # datasciencecoursera
-The Data Scientist’s Toolbox
+README file for: The Data Scientist’s Toolbox.
 
-Hello world
+Hello world!
